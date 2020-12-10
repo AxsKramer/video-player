@@ -1,2 +1,2 @@
-# video-player
-Video Player Implementation in js.
+# Video Player
+Video Player Implementation with html, css and js.
